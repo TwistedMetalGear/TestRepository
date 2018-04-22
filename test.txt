@@ -1,1 +1,1 @@
-This is the branched version of test.txt.
+This is the updated branched version of test.txt.
